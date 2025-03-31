@@ -65,8 +65,8 @@ Inscriber Presses. There are four presses that you need (Listed in order of "tie
   <ItemIcon itemId="engineering_processor_press" />
 </ItemGrid>
 
-These presses are used to make the Circuits needed for the Tech 2 machines and beyond. They're found randomly in <
-ItemLink id="appliedenergistics2:sky_stone_chest"/>, which are located within Meteorites. Meteorites are randomly
+These presses are used to make the Circuits needed for the Tech 2 machines and beyond. They're found randomly in 
+<ItemLink id="appliedenergistics2:sky_stone_chest"/>, which are located within Meteorites. Meteorites are randomly
 spawned throughout the world, normally underground. So, the hunt begins!
 
 This hunt is a little less aimless than the hunt for your first <ItemLink id="appliedenergistics2:
